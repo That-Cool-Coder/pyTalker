@@ -1,0 +1,2 @@
+class NoVoicesFoundError(Exception):
+    pass

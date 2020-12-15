@@ -1,0 +1,7 @@
+{
+    "textToSpeech" : {
+        "rate" : 125,
+        "voiceIdx" : 0,
+        "volume" : 1
+    }
+}
